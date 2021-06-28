@@ -206,15 +206,16 @@
                 </div>
                 <form action="https://send.pageclip.co/DCI1sa5X8NZ3VOlo526wUcGgKbZ857UG/message" class="pageclip-form" method="post">
                     <div class="input-wrap">
-                        <input type="text" placeholder="Your Name *">
-                        <input type="email" placeholder="Your Email *">
+                        <input type="text" name="name" placeholder="Your Name *">
+                        <input type="email" name="email" placeholder="Your Email *">
                     </div>
                     <div class="input-wrap-2">
-                        <input type="text" placeholder="Your Subject...">
-                        <textarea name="" id="" cols="30" rows="10" placeholder="Your Message..."></textarea>
+                        <input type="text" name="subject" placeholder="Your Subject...">
+                        <input type="text" name="message" placeholder="Your Message...">
                     </div>
                     <div class="btn-wrapper"> 
-                        <button class="btn btn-primary">Send Message</button>
+                        <button type="submit" class="pageclip-form__submit">
+                            <span>Send Message</span>
                     </div>
                 </form>
             </div>
