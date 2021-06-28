@@ -1,13 +1,7 @@
-let hamberger = document.querySelector('.hamberger');
-let times = document.querySelector('.times');
-let mobileNav = document.querySelector('.mobile-nav');
-    
-hamberger.addEventListener('click', function(){
-    mobileNav.classList.add('open');  
-    });
-    
-times.addEventListener('click', function(){
-    mobileNav.classList.remove('open');  
-    });
-    
+function onClickMenu(){
+    document.getElementById("menu").classList.toggle("change");
+	document.getElementById("nav").classList.toggle("change");
+	
+	document.getElementById("menu-bg").classList.toggle("change-bg");
+    }    
     
