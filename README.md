@@ -1,6 +1,6 @@
 # Portfolio 
 ## This is my Portfolio Webpage 👇🏻
-You can visit the page here 👉🏻  [![Website](https://img.shields.io/badge/-Website-orange)](https://tiwaryaniket.github.io/portfolio/-/)
+You can visit the page here 👉🏻  [![Website](https://img.shields.io/badge/-Website-orange)](https://tiwaryaniket.github.io/portfolio/)
 
 ---
 
