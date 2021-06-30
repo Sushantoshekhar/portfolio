@@ -80,7 +80,7 @@ and it is certain to make you available and searchable for everyone.
                     <h3>Hello! I'm <span> YOUR FIRST NAME </span></h3>
                     <p><i class="arrow rightside"></i> STATEMENT 1 <br><span> ABOUT YOU </span></p>
                     <p><i class="arrow rightside"></i> STATEMENT 2 <br><span> ABOUT YOU </span></p>
-                    <p><i class="arrow rightside"></i> STATEMENT 3 <br><span> ABOUT YOU</span></p>
+                    <p><i class="arrow rightside"></i> STATEMENT 3 <br><span> ABOUT YOU </span></p>
                     <div class="social">
                         <a href=" LINK TO GITHUB "><img src="./images/icons8-github-48.png" alt="github" width=26 height="30"></a>
                         <a href=" LINK TO FACEBOOK "><img src="./images/icons8-facebook-48.png" alt="facebook" width=26 height="30"></a>
